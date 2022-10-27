@@ -1,0 +1,23 @@
+.appBarSearch {
+  border-radius: 4;
+  margin-bottom: 1rem;
+  display: flex;
+  padding: 16px
+};
+
+.pagination {
+  border-radius: 4;
+  margin-top: 1rem;
+  padding: 16px;
+}
+
+.Image {
+  margin-left: 15px,
+}
+
+@media screen and (mmax-width: 600px) {
+  .gridContainer {
+    flex-direction: column;
+  }
+}
+
